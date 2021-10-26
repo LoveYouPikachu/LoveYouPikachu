@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JieYin
-- 👀 I’m interested in java,python
+- 👀 I’m interested in java,python,mysql
 - 🌱 I’m currently learning spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
