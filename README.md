@@ -2,7 +2,7 @@
 - 👀 I’m interested in java,python,mysql
 - 🌱 I’m currently learning spring
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ..
+- 📫 How to reach me .
 
 <!---
 LoveYouPikachu/LoveYouPikachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
