@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JieYin
 - 👀 I’m interested in java,python,mysql
 - 🌱 I’m currently learning spring
-- 💞️ I’m looking to a intern
+- 💞️ I’m looking to a intern summer
 - 📫 How to reach me jyin015@uottawa.ca
 
 <!---
