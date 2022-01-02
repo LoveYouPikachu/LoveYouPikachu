@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JieYin
+- 👋 Hi, I’m JieYin, I am studying in University of Ottawa
 - 👀 I’m interested in java,python,mysql
 - 🌱 I’m currently learning spring
 - 💞️ I’m looking to a intern summer
