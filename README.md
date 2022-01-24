@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JieYin, I am studying in University of Ottawa
-- 👀 I’m interested in java,C++/C#,Python,Mysql.
+- 👀 I’m interested in java,C++/C#,Python,Mysql
 - 🌱 I’m currently learning spring,R,Go
 - 💞️ I’m looking to a software/data intern summer
 - 📫 How to reach me jyin015@uottawa.ca
